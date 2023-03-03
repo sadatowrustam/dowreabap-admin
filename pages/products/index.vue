@@ -123,7 +123,7 @@ export default {
     async deleteItemConfirm(){
       this.dialogDelete = false;
       try {
-        const res = await this.$axios.delete(`/admin/products/${this.deleteItemValue.product_id}`)
+        const res = await this.$axios.delete(`/admin/products/delete/${this.deleteItemValue.product_id}`)
         if(res.status == 200){
           this.getDessertsFromApi();
         }
