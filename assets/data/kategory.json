@@ -1,0 +1,52 @@
+[
+{
+  "id": 1,
+  "kategory_name_tm": "Sarette",
+  "kategory_name_ru": "Ritmeyer"
+}, 
+{
+  "id": 2,
+  "kategory_name_tm": "Hinze",
+  "kategory_name_ru": "Pablos"
+}, 
+{
+  "id": 3,
+  "kategory_name_tm": "Karolina",
+  "kategory_name_ru": "Pittway"
+}, 
+{
+  "id": 4,
+  "kategory_name_tm": "Amery",
+  "kategory_name_ru": "Dimitriades"
+}, 
+{
+  "id": 5,
+  "kategory_name_tm": "Doloritas",
+  "kategory_name_ru": "Mosedall"
+}, 
+{
+  "id": 6,
+  "kategory_name_tm": "Penni",
+  "kategory_name_ru": "Lile"
+}, 
+{
+  "id": 7,
+  "kategory_name_tm": "Dotty",
+  "kategory_name_ru": "Aloshikin"
+}, 
+{
+  "id": 8,
+  "kategory_name_tm": "Claudelle",
+  "kategory_name_ru": "Loughlin"
+}, 
+{
+  "id": 9,
+  "kategory_name_tm": "Cherry",
+  "kategory_name_ru": "Ashcroft"
+}, 
+{
+  "id": 10,
+  "kategory_name_tm": "Rand",
+  "kategory_name_ru": "Farley"
+}
+]

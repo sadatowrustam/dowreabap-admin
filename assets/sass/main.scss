@@ -1,0 +1,81 @@
+
+.perfume__images__wrapper{
+  .perfume__images{
+    display: flex;
+    flex-wrap: wrap;
+    &__item{
+      width: 23%;
+      margin-right: 2.5%;
+      &:nth-child(4n){
+        margin-right: 0;
+      }
+      img{
+        width: 100%;
+      }
+    }
+  }
+}
+
+.banner{
+  .perfume__images{
+    &__item{
+      width: 100%;
+      margin-right: 0;
+    }
+  }
+}
+
+.tableContainer{
+  padding: 16px;
+  background: #1e1e1e;
+  div{
+    &:hover{
+      background: gray;
+      border-radius: 5px;
+    }
+    a{
+      padding: 12px;
+      color: white;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+    }
+  }
+  .list{
+    display: flex;
+  }
+  .btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    button{
+      margin-bottom: 0 !important;
+      &:first-child{
+        margin-right: 10px;
+      }
+    }
+  }
+}
+
+.text-start:last-child{
+  // display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+tr{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  td,th{
+    width: 100%;
+  }
+}
+.text-start{
+  img{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+  }
+}
